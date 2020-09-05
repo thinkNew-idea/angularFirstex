@@ -1,2 +1,2 @@
 # angularFirstex
-angular : website design
+angular : static website design using angular
